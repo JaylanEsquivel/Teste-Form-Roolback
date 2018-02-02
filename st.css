@@ -1,0 +1,27 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 31/01/2018, 16:20:20
+    Author     : Spny Vaio
+*/
+
+.topo{
+    width: 500px;
+    background-color: #00A6C7;
+    padding: 10px;
+}
+.bg{
+   padding-left: 20px;
+   color: #fff;
+}
+.ativo{
+    color: #990000 !important;
+    font-weight: bold;
+}
+.ativo:hover{
+    color: #0066cc !important;
+    font-weight: bold;
+}
